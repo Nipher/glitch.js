@@ -1,0 +1,23 @@
+{
+  "name": "glitch.js",
+  "version": "0.0.0",
+  "description": "A glitched effect for DOM elements.",
+  "main": "glitch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjhewitt/glitch.js.git"
+  },
+  "keywords": [
+    "glitch",
+    "effect"
+  ],
+  "author": "sjhewitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjhewitt/glitch.js/issues"
+  },
+  "homepage": "https://sjhewitt.github.io/glitch.js/"
+}
